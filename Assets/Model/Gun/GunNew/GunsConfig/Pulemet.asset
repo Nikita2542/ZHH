@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0dae493443a2a094f95b78a984d835dd, type: 3}
+  m_Name: Pulemet
+  m_EditorClassIdentifier: 
+  hitEffect: {fileID: 602947420853409728, guid: e32f84001e32c7f4e8b8357687232a13, type: 3}
+  Type: 1
+  Name: Pulemet
+  ModelPrefab: {fileID: 4268099232034747600, guid: 1635722014c59ca4b8eaa8b1bf4cb70d, type: 3}
+  SpawnPoint: {x: -0.0009999871, y: 0.47600007, z: -0.30599976}
+  SpawnRotation: {x: 0, y: 0, z: 0}
+  ShootConfig: {fileID: 11400000, guid: 6d2c94c790928e54ab9009b7a5f7106f, type: 2}
+  TrailConfig: {fileID: 11400000, guid: 2fe7760af5d338644843004430b120a4, type: 2}
+  Model: {fileID: 0}
